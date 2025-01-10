@@ -1,6 +1,6 @@
 
 
-▎Health Todo List App
+▎SHADAB App
 
 This project is a simple and functional Todo List application that allows users to manage their tasks. In addition to task management, the app includes several health-related features such as heart rate monitoring, step counting, and body mass index (BMI) calculation based on height and weight. Please note that the heart rate feature is currently not functioning correctly.
 
@@ -26,7 +26,7 @@ This project is a simple and functional Todo List application that allows users 
 
 To use this application, clone the repository:
 
-git clone https://github.com/yourusername/health-todo-list-app.git
+git clone https://github.com/MrMRZ01/SHADAB
 
 
 Then open the project in Android Studio and run it.
